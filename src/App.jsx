@@ -19,7 +19,7 @@ function App() {
     headers: {
       accept: "application/json",
       Authorization:
-        "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNWIzZDQ2NjE5YzNlMzY5NThkN2JkMWVlNzhiMTU5ZCIsInN1YiI6IjVmNjdiNmJkYzFmZmJkMDAzNmQwNzZmMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zAZ9CZqQy2hrXVBkB8hSXVVU9rZyJPRNwscBpjYmkkk",
+        "Bearer YOUR_ACCESS_KEY",
     },
   };
 
